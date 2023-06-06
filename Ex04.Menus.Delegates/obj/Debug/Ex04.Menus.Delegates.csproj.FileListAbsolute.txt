@@ -1,0 +1,6 @@
+C:\Users\maorize1\source\repos\B23 Ex04 Lior 206257826 Maor 206273690\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojAssemblyReference.cache
+C:\Users\maorize1\source\repos\B23 Ex04 Lior 206257826 Maor 206273690\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\Users\maorize1\source\repos\B23 Ex04 Lior 206257826 Maor 206273690\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\maorize1\source\repos\B23 Ex04 Lior 206257826 Maor 206273690\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\maorize1\source\repos\B23 Ex04 Lior 206257826 Maor 206273690\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\maorize1\source\repos\B23 Ex04 Lior 206257826 Maor 206273690\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
